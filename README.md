@@ -17,5 +17,8 @@ C Parser based on Eclipse CDT providing:
 ## Usage
 
 ~~~bash
-java -jar CParser.jar [Files]
+AST to console:
+  java -jar CParser.jar [Files]
+Start py4j gateway to CParser instance:
+  java -jar CParser.jar
 ~~~

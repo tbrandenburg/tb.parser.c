@@ -8,5 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="lib" path="C:/_ws/_github/tb.parser.c/libs/json/json.jar"/>
+	<classpathentry kind="lib" path="libs/py4j/py4j.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
