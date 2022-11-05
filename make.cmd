@@ -1,7 +1,9 @@
 @echo off
-cd external/JSON/src/main/java/
 echo Compiling...
-javac org/json/*.java
-echo Creating JAR...
-jar cf ../../../json.jar org/json/*.class
-cd ../../../../../
+mkdir bin
+javac external/JSON/src/main/java/org/json/*.java -d bin
+echo Creating JAR...W
+mkdir libs\json\
+cd bin
+jar cf ../libs/json/json.jar org/json/*.class
+cd ..

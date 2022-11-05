@@ -6,7 +6,7 @@ C Parser based on Eclipse CDT providing:
 
 ## Dependencies
 
-- [https://github.com/stleary/JSON-java]
+- https://github.com/stleary/JSON-java
 - Eclipse CDT
 
 ## Build
