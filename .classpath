@@ -7,6 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
-	<classpathentry kind="lib" path="C:/_ws/Eclipse/200215/tb.parser.c/external/JSON/bin/json.jar"/>
+	<classpathentry kind="lib" path="C:/_ws/_github/tb.parser.c/external/JSON/json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
