@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: C
+Bundle-SymbolicName: tb.parser.c
+Bundle-Version: 1.0.0
+Automatic-Module-Name: tb.parser.c
+Bundle-RequiredExecutionEnvironment: JavaSE-13
+Require-Bundle: org.eclipse.cdt,
+ org.eclipse.cdt.core,
+ org.eclipse.core.runtime
