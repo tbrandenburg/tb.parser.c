@@ -12,7 +12,7 @@ C Parser based on Eclipse CDT providing:
 ## Build
 
 1. Call make.cmd or make.sh for building JSON
-2. Deploy using Eclipse creating a "Runnable JAR file" if CParser.java
+2. Deploy using Eclipse creating a "Runnable JAR file" of CParser.java
 
 ## Usage
 
